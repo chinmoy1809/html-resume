@@ -19,4 +19,4 @@ This is a single-page resume website built using only HTML.
 https://demo-resumeo.netlify.app/
 
 ## Screenshot
-![Preview](screenshot.png)
+![Preview](SC.png)
